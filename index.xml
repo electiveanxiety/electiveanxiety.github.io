@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>elective Anxiety</title>
-    <link>https://electiveanxiety.com/</link>
+    <link>electiveanxiety.com/</link>
     <description>Recent content on elective Anxiety</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 12 Jul 2020 11:41:26 -0400</lastBuildDate>
     
-	<atom:link href="https://electiveanxiety.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="electiveanxiety.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://electiveanxiety.com/essays/</link>
+      <link>electiveanxiety.com/essays/</link>
       <pubDate>Sun, 12 Jul 2020 14:42:07 -0400</pubDate>
       
-      <guid>https://electiveanxiety.com/essays/</guid>
+      <guid>electiveanxiety.com/essays/</guid>
       <description>Upcoming: &amp;ldquo;New Perspectives on the Origins of Surveillance Realism&amp;rdquo; Have thoughts or readings on the topic? Send them my way!</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://electiveanxiety.com/contact/</link>
+      <link>electiveanxiety.com/contact/</link>
       <pubDate>Sun, 12 Jul 2020 14:20:43 -0400</pubDate>
       
-      <guid>https://electiveanxiety.com/contact/</guid>
+      <guid>electiveanxiety.com/contact/</guid>
       <description>Do you have things I should read?
 Did I get something wrong, or did I miss something important?
 Educate me!
@@ -34,10 +34,10 @@ Send me an email at: elijah@electiveanxiety.com</description>
     
     <item>
       <title></title>
-      <link>https://electiveanxiety.com/about/</link>
+      <link>electiveanxiety.com/about/</link>
       <pubDate>Sun, 12 Jul 2020 13:43:10 -0400</pubDate>
       
-      <guid>https://electiveanxiety.com/about/</guid>
+      <guid>electiveanxiety.com/about/</guid>
       <description> </description>
     </item>
     
